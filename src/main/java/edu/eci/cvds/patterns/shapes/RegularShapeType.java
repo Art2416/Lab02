@@ -1,4 +1,5 @@
 package edu.eci.cvds.patterns.shapes;
 
-public class RegularShapeType {
+public enum RegularShapeType {
+    Triangle, Quadrilateral, Pentagon, Hexagon
 }
